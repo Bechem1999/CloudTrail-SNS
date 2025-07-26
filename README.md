@@ -3,7 +3,7 @@ Root account monitoring with CloudTrail+SNS
 
 OBJECTIVE: Simulate  sensitive activity from the AWS root account and detect it using logginh and alerts
 
-TOOL NEEDED: CloudTrail, SNS(Simpl Notification Service), IAM,AWS CONSOLE
+TOOLS NEEDED: CloudTrail, SNS(Simpl Notification Service), IAM,AWS CONSOLE
 
 WHAT I DID
 - log into AWS CONSOLE using root account( not recommended in production)
